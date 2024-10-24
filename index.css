@@ -1,0 +1,111 @@
+
+.top{
+    background-color: rgb(105, 105, 144);
+    height:10vh;
+    
+    gap:100px;
+    color:red;
+    border-radius:5px;
+   
+
+
+}
+
+.top a {
+    text-decoration: none;
+    color: white;
+}
+#couverture{
+     
+    background-image: url("image/fond.gif");
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height:70vh;
+    width:100%;
+    display: flex;
+    
+    overflow: hidden;
+    text-align:justify;
+    margin-top:10px;
+    border-radius:5px;
+    
+:
+} 
+
+
+#Bienvenue1{
+     
+     width:100%;
+     height:100%;
+     text-align: center;
+     
+     padding:100px;
+     font-style: italic;
+     
+   
+    background-color:rgb(65, 62, 62);
+     text-decoration:bold;
+     
+     color:white;
+     opacity:0.90;
+     border-bottom:20px solid rgb(105, 105, 144);
+
+   
+    
+}
+.cov1{
+    /* background-image: url("image/fond1.gif"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:50%;
+    height: auto;
+}
+#Bienvenue .btn{
+   color:white;
+   border:1px solid #eceff2;
+   padding: 10px;
+   border-radius:5px;
+   transform:background-color 0.3s , color 0.3s;
+   background-color: rgb(86, 86, 149);
+   
+   
+}
+
+#pied{
+    margin-top:50px;
+    height:2%;
+    background-color: rgb(105, 105, 144);
+    border-radius:5px;
+    
+}
+
+.Banniere{
+    background-color: #eceff2;
+    margin-top:50px;
+    height:400px;
+    border-radius:10px;
+    display: flex;
+    border-bottom:5px solid white;
+    border-top: 5px solid white;
+    border-right: 10px solid rgb(105, 105, 144);
+    overflow: hidden;
+
+}
+.image img{
+    height:100%;
+    width:100%;
+    padding:20px;
+    border-radius:4px;
+    
+}
+.text{
+    padding:50px;
+    background-color:  #eceff2;
+    border-radius:5px;
+    width:50%;
+    height:100%;
+
+}
+

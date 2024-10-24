@@ -1,0 +1,21 @@
+.login{
+    background-color:white;
+    height:60vh;
+    width:50%;
+    margin-top:10%;
+    border-radius:20px;
+    border-bottom:5px solid gray;
+}
+.contenue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#titreL{
+    background-color:rgb(116, 109, 109);
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
